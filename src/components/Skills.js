@@ -8,7 +8,7 @@ const Skills = () => {
     return (
         <div className='flex flex-col p-[5rem] justify-center items-center'>
             <h1 className='text-[1.3rem] mobile:text-[13px] mobile:text-center text-[#353535] uppercase  tracking-[0.25rem] font-bold font-[Open Sans,sans-serif]'>As a student, achieving excellence</h1>
-            <div className='flex flex-wrap gap-[4rem] mobile:gap-0 mobile:flex-col mt-[5rem]'>
+            <div className='flex flex-wrap gap-[4rem] mobile:gap-[1.5rem] mobile:flex-col mt-[5rem]'>
                 <div className='flex flex-col justify-center items-center'>
 
                     <div className='flex justify-center items-center rounded-[50%] w-[150px] h-[150px] border-[1px] border-[#E04343]'>
