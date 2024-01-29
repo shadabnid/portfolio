@@ -9,7 +9,7 @@ const Contact = () => {
         <h2 className=' text-[#FFF] mobile:text-[13px] text-[2rem] font-[Open Sans,sans-serif] uppercase tracking-[0.25rem] font-bold mt-[1rem]'>
         Contact Information
         </h2>
-        <div className='flex  flex-wrap gap-[3rem] mobile:ml-[12px]  mt-[4rem]'>
+        <div className='flex  flex-wrap gap-[3rem] mobile:flex-col mobile:gap-[20px] mobile:ml-[12px]  mt-[4rem]'>
             <div className='flex flex-col justify-center items-center w-[300px] h-[200px] bg-[#FBFBFB]'>
                 <div><FaLocationDot className='text-[#545454]'/></div>
                 <div className='text-[#545454] text-[14px] font-bold mt-[15px] uppercase translate-[1px]'>Address</div>

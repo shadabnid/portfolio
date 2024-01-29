@@ -4,7 +4,7 @@ module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
     screens:{
-      'mobile':{'max': '324px'},
+      'mobile':{'max': '480px'},
      },
     extend: {
       
