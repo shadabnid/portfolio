@@ -2,7 +2,7 @@ import React from 'react'
 
 const LetterGray = (props) => {
   return (
-    <h1 className='text-[120px] font-[600] mobile:font-[650] mobile:text-[100px] mobile:tracking-[0px] tracking-[-8px] leading-[95px] uppercase text-[#a1a9b0]'>
+    <h1 className='text-[120px] font-[600] mobile:font-[650] mobile:text-[80px] mobile:tracking-[0px] tracking-[-8px] leading-[95px] uppercase text-[#a1a9b0]'>
         {props.letter}</h1>
   )
 }

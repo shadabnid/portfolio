@@ -33,7 +33,7 @@ const Home = () => {
                 <LetterBlack letter={'b'} />
 
             </div>
-            <div className='flex mobile:mt-[-20px]'>
+            <div className='flex mobile:mt-[-30px]'>
                 <LetterGray letter={'h'} />
                 <LetterGray letter={'u'} />
                 <LetterYellow letter={'s'} />
